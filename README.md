@@ -1,1 +1,1 @@
-#### [Github Issue](https://github.com/saberma/blog.here/issues) is so cool.
+#### [Github Issue](https://github.com/saberma/blog.here/issues) is cool.
